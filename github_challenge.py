@@ -2,8 +2,8 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time
 
-username = "idohamburger@gmail.com"
-pw = "ido96rtb"
+username = "somthing@gmail.com"
+pw = "!@$@$$@"
 site_url = "https://github.com/"
 
 chrome_driver = webdriver.Chrome(executable_path="C:/chromedriver.exe")
